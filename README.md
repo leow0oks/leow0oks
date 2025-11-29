@@ -4,13 +4,18 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drezzdon&label=folks.&color=cbc1d2">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drezzdon&label=folks.&color=61205c">
 </p>
 
 
 <p align="center">
-  <img width="308" height="300" alt="Untitled166_20251129150150" src="https://github.com/user-attachments/assets/1cf15803-9966-4450-9e9a-026abce43ff5"/>
+  <img width="350" height="300" alt="Untitled166_20251129150150" src="https://github.com/user-attachments/assets/1cf15803-9966-4450-9e9a-026abce43ff5"/>
 </p>
 
 
+  <p align="center" style="color:ffd700; font-size:14px;">
+  It's all yours.
+</p>
+
 <p align="center"> <img width="500" height="300" alt="tumblr_7b6e9813cbcbc11e0cb7575cef877d9c_0626e9ca_1280" src="https://github.com/user-attachments/assets/7e8df480-2de7-4192-b383-53d46c0be350" />
+
