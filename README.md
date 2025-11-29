@@ -4,6 +4,11 @@
 
 
 <p align="center">
+                                                  best viewed in dark mode . . ! ⠀⠀⠀ 
+</p>
+
+
+<p align="center">
   <img width="308" height="300" alt="Untitled166_20251129150150" src="https://github.com/user-attachments/assets/1cf15803-9966-4450-9e9a-026abce43ff5"/>
 </p>
 
