@@ -4,7 +4,11 @@
 
 
 <p align="center">
-                                                  best viewed in dark mode . . ! ⠀⠀⠀ 
+                                                    spam following cool ponies . . . ! ⠀⠀⠀ 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drezzdon&label=medicine.&color=purple">
 </p>
 
 
