@@ -14,7 +14,7 @@
 
 
  <p align="center">
-  $$\color{green}{\mathscr{the\ kisses\ of\ the\ sun. }}$$
+  $$\color{green}{\mathscr{WIP.RMK}}$$
 </p>
 
 <p align="center"> <img width="500" height="300" alt="tumblr_7b6e9813cbcbc11e0cb7575cef877d9c_0626e9ca_1280" src="https://github.com/user-attachments/assets/7e8df480-2de7-4192-b383-53d46c0be350" />
