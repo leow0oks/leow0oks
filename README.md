@@ -24,3 +24,6 @@
 </p>
 
 
+<p align="center">
+  <a href="https://secondpartytime.straw.page/">1</a> . <a href="https://laluhhlala.atabook.org/">2</a> . <a href="https://github.com/eatmykind">3</a>
+</p>
