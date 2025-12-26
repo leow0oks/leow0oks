@@ -29,7 +29,7 @@ $$\color{#E31EA9}{\text{best viewed on desktop..}}$$
 
 $$\quad$$
 
-$$\color{#FBF748}{\text{ Phantomduo is in very deed us, Mika.  }}$$
+$$\color{#FBF748}{\text{ wip  }}$$
 
 
 $$\quad$$
