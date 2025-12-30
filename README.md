@@ -23,7 +23,7 @@
   align="right"
 />
 <br><br><br>
-<p align="center"> ୭ৎㅤ ︵ ㅤ ۪   ݁ </p> 
+<p align="center"> —————　✦　————— </p> 
 
 $$\color{#E31EA9}{\text{best viewed on desktop..}}$$
 
